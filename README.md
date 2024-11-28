@@ -103,7 +103,18 @@ rako_a3/
    java -cp ePortfolio/bin rako_a3.ePortfolio.src.Main investments.txt
    ```
 
+
+## Some screenshots of the GUI
 ---
+![alt text](img/image.png)
+![alt text](img/image-1.png)
+![alt text](img/image-2.png)
+![alt text](img/image-3.png)
+![alt text](img/image-4.png)
+![alt text](img/image-5.png)
+
+---
+
 
 ### Some reference commands
 
@@ -203,18 +214,7 @@ Here’s how you can update the **README.md** file to include **Assumptions** an
 9. **No Internationalization**:
    - The program supports only English and does not provide support for other languages or regional formats (e.g., currency formats).
 
-
-## Some screenshots of the GUI
 ---
-![alt text](img/image.png)
-![alt text](img/image-1.png)
-![alt text](img/image-2.png)
-![alt text](img/image-3.png)
-![alt text](img/image-4.png)
-![alt text](img/image-5.png)
-
----
-
 
 # Test Plan for ePortfolio GUI
 
